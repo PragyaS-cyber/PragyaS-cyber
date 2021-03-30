@@ -1,5 +1,5 @@
 ### Hi there 👋, Pragya Sharma here...
-I am an enthusiastic person, who is eager to learn new things..😃😃
+I am an enthusiastic person, who has eager to learn new things..😃😃
 Currently I have less than 1 year of experience in technical field, but learning must go on...
 Languages I am working upon are C, C++, HTML, CSS and python 😊😊
 
