@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pragyas-cyber" alt="pragyas-cyber" /></a> </p>
 
-- 🔭 I’m currently working on **weather predictor**
+- 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **javascript,nodejs, reactjs**
 
